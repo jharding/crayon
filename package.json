@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jharding/pen.git"
+    "url": "git://github.com/jharding/crayon.git"
   },
   "dependencies": {
     "colors": "*"
