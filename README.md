@@ -1,4 +1,4 @@
-pen
+crayon
 ===
 
 > *fill me out!*
@@ -28,7 +28,7 @@ Issues
 
 Found a bug? Create an issue on GitHub.
 
-https://github.com/jharding/pen/issues
+https://github.com/jharding/crayon/issues
 
 Versioning
 ----------
