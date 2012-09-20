@@ -1,0 +1,25 @@
+{
+  "name": "pen",
+  "version": "0.0.0",
+  "description": "Console wrapper.",
+  "author": {
+    "name": "Jake Harding",
+    "email": "jacob.s.harding@gmail.com",
+    "url": "http://thejakeharding.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jharding/pen.git"
+  },
+  "dependencies": {
+    "colors": "*"
+  },
+  "keywords": [
+    "console"
+  ],
+  "license": "MIT"
+}
