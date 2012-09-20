@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/jharding/crayon.png)](http://travis-ci.org/jharding/crayon)
 Crayon
 ======
 
