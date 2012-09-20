@@ -9,7 +9,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/nodeunit/bin/nodeunit test/test_crayon.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,9 @@
   },
   "dependencies": {
     "colors": "*"
+  },
+  "devDependencies": {
+    "nodeunit": "~0.7.4"
   },
   "keywords": [
     "console"
