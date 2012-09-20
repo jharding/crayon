@@ -1,6 +1,6 @@
 {
   "name": "crayon",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Console wrapper that provides string formatting and colors.",
   "author": {
     "name": "Jake Harding",
