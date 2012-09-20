@@ -1,27 +1,57 @@
-crayon
-===
+Crayon
+======
 
-> *fill me out!*
+Crayon is a wrapper around the `console` object that supports string formatting and colors.
 
 Installation
 ------------
 
-*server side*
-
-Download
---------
-
-*client side*
+```
+$ npm install crayon
+```
 
 Usage
 -----
 
-*fill me out!*
+### Require
+
+```javascript
+var crayon = require('crayon');
+```
+
+### API
+
+#### crayon.verbose
+
+If set to `true`, all methods will get printed to the console. If `false`, only `crayon.success` and `crayon.error` will. Defaults to `false`.
+
+#### crayon.log(format, [...])
+
+Prints a formatted string to the console. Not colored.
+
+#### crayon.info(format, [...])
+
+Prints a blue formatted string to the console.
+
+#### crayon.warn(format, [...])
+
+Prints a yellow formatted string to the console.
+
+#### crayon.success(format, [...])
+
+Prints a green formatted string to the console.
+
+#### crayon.error(format, [...])
+
+Prints a red formatted string to the console.
 
 Testing
 -------
 
-*fill me out!*
+```
+$ npm install
+$ npm test
+```
 
 Issues
 ------
