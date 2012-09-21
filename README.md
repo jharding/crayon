@@ -46,6 +46,10 @@ Prints a green formatted string to the console.
 
 Prints a red formatted string to the console.
 
+### Example
+
+<img src='http://thejakeharding.com/images/crayon_example.png'>
+
 Testing
 -------
 
